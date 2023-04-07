@@ -1,8 +1,5 @@
-<template> this is the test
-</template>
+<template>12312</template>
 
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
-<style scoped>
-</style>
+<style scoped></style>
