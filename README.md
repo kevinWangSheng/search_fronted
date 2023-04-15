@@ -1,4 +1,4 @@
-# yu_search
+# search_UI
 
 ## Project setup
 ```
